@@ -26,8 +26,6 @@ DerivedData/
 *.perspectivev3
 !default.perspectivev3
 
-*.DS_store
-
 ## Obj-C/Swift specific
 *.hmap
 
@@ -101,3 +99,4 @@ iOSInjectionProject/
 **/xcshareddata/WorkspaceSettings.xcsettings
 
 # End of https://www.toptal.com/developers/gitignore/api/xcode,swift
+.DS_Store
